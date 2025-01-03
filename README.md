@@ -117,10 +117,6 @@
   </a>
 </p>
 
-# <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakhtawarkhan90&show_icons=true&locale=en&layout=compact" alt="bakhtawarkhan90" /></p>
 
-# <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakhtawarkhan90&show_icons=true&locale=en" alt="bakhtawarkhan90" /></p>
-
-# <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtawarkhan90&" alt="bakhtawarkhan90" /></p>
 
 
