@@ -55,7 +55,7 @@
 <img align="right" alt="Coding" width="352" src="https://simplecoding.dev/assets/devops.gif">
 <img align="right" alt="Coding" width="300" src="https://www.hfsolutions.cl/assets/img/gifs/ilustracion-devops.gif">
 <img align="right" alt="Coding" width="300" src="https://maraaverick.rbind.io/banners/nyan_docker_whale_gfycat.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bakhtawarkhan90&label=Profile%20views&color=0e75b6&style=flat" alt="bakhtawarkhan90" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansurianas&label=Profile%20views&color=0e75b6&style=flat" alt="mansurianas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansurianas" alt="mansurianas" /></a> </p>
 
