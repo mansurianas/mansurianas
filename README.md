@@ -71,10 +71,10 @@
    1. *Did you know?* The *first ever commit* on GitHub was made by GitHub co-founder, Chris Wanstrath, on February 8, 2008. The commit message was initial commit of rails app. Since then, millions of 
       developers like us have been committing and pushing code, making GitHub a hub for collaboration and learning. Let's keep the tradition alive!🚀
    2.  You can’t hum if you’re holding your nose.**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev" height="30" width="40" /></a>
+<a href="https://anasmansuri.hashnode.dev/" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png"  alt="Hashnode" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anas-056b2b259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bakhtawar khan" height="30" width="40" /></a>
 
 <a href="https://www.instagram.com/chief.anas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bakhtawar_khan_375" height="30" width="40" /></a>
