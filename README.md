@@ -61,7 +61,6 @@
 
 - 🌱 I’m currently learning *DevOps Engineering & DevOps Tools*
 
-- 🤝 I’m looking for help with *DevOps*
 
 - 💬 Ask me about *DevOps*
 
